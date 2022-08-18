@@ -37,7 +37,7 @@
 
 
 drawLine(0, 0, width, height, 'blue')
-drawLine(0, 100, width, 100, 'blue')
+drawLine(0, 500, width, 500, 'blue')
 drawLine(0, 0, width, height, 'blue')
 
 
