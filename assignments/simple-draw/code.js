@@ -35,10 +35,13 @@
  *
  */
 
+
+drawLine(0, 0, width, height, 'blue')
+drawLine(5, 5, width, height, 'blue')
 drawLine(0, 0, width, height, 'blue')
 
 
-drawCircle(width/2, height/2, 10, 'red');
+//drawCircle(width/2, height/2, 10, 'red');
 
 //drawRect(50, 50, 60, 40, 'black');
 
