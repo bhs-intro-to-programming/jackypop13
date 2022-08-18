@@ -36,10 +36,16 @@
  */
 
 
-drawLine(0, 0, width, height, 'blue')
+drawLine(0, 100, width, height, 'blue')
 drawLine(0, 500, width, 500, 'blue')
-drawLine(0, 0, width, height, 'blue')
-
+drawLine(0, 50, width, height, 'blue')
+drawLine(0, 150, width, height, 'blue')
+drawLine(0, 200, width, height, 'blue')
+drawLine(0, 250, width, height, 'blue')
+drawLine(0, 300, width, height, 'blue')
+drawLine(0, 350, width, height, 'blue')
+drawLine(0, 400, width, height, 'blue')
+drawLine(0, 450, width, height, 'blue')
 
 drawCircle(width/2, height/2, 10, 'red');
 
