@@ -57,6 +57,15 @@ drawLine(0, 900, width, height, 'blue')
 drawLine(0, 950, width, height, 'blue')
 drawLine(50, 0, width, height, 'blue')
 drawLine(0, 500, width, height, 'blue')
+drawLine(100, 0, width, height, 'blue')
+drawLine(150, 0, width, height, 'blue')
+drawLine(200, 0, width, height, 'blue')
+drawLine(250, 0, width, height, 'blue')
+drawLine(300, 0, width, height, 'blue')
+drawLine(350, 0, width, height, 'blue')
+drawLine(400, 0, width, height, 'blue')
+drawLine(450, 0, width, height, 'blue')
+drawLine(450, 0, width, height, 'blue')
 
 //drawCircle(width/2, height/2, 10, 'red');
 
