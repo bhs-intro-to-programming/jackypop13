@@ -46,14 +46,25 @@ drawLine(0, 300, width, height, 'blue')
 drawLine(0, 350, width, height, 'blue')
 drawLine(0, 400, width, height, 'blue')
 drawLine(0, 450, width, height, 'blue')
+drawLine(0, 550, width, height, 'blue')
+drawLine(0, 600, width, height, 'blue')
+drawLine(0, 650, width, height, 'blue')
+drawLine(0, 700, width, height, 'blue')
+drawLine(0, 750, width, height, 'blue')
+drawLine(0, 800, width, height, 'blue')
+drawLine(0, 850, width, height, 'blue')
+drawLine(0, 900, width, height, 'blue')
+drawLine(0, 950, width, height, 'blue')
+drawLine(0, 1000, width, height, 'blue')
 
-drawCircle(width/2, height/2, 10, 'red');
 
-drawRect(50, 50, 60, 40, 'black');
+//drawCircle(width/2, height/2, 10, 'red');
 
-drawFilledCircle(width - 100, height - 50, 50, 'black');
-drawFilledCircle(width - 300, height - 50, 50, 'black');
-drawFilledCircle(width - 400, height - 50, 50, 'black');
-drawFilledCircle(width - 200, height - 50, 50, 'black');
+//drawRect(50, 50, 60, 40, 'black');
 
-drawFilledRect(5, height - 20, 45, 15, 'yellow');
+//drawFilledCircle(width - 100, height - 50, 50, 'black');
+//drawFilledCircle(width - 300, height - 50, 50, 'black');
+//drawFilledCircle(width - 400, height - 50, 50, 'black');
+//drawFilledCircle(width - 200, height - 50, 50, 'black');
+
+//drawFilledRect(5, height - 20, 45, 15, 'yellow');
