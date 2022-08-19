@@ -79,6 +79,6 @@ drawFilledCircle(width/4, height/4, 75, 'black');
 
 //drawFilledRect(5, height - 20, 45, 15, 'yellow');
 
-drawLine(500, 0, width, height, 'blue')
-drawLine(500, 0, width, height, 'blue')
-drawLine(x, y, width, height, 'yellow')
+drawLine( 0, 0, width, height, 'blue')
+drawLine( 0, 0, width, height, 'blue')
+drawLine(500,500, width, height, 'yellow')
