@@ -72,7 +72,7 @@ drawLine(0, 0, width, height, 'blue')
 
 //drawRect(50, 50, 60, 40, 'black');
 
-//drawFilledCircle(width - 100, height - 50, 50, 'black');
+drawFilledCircle(width/2, height/2, 50, 'black');
 //drawFilledCircle(width - 300, height - 50, 50, 'black');
 //drawFilledCircle(width - 400, height - 50, 50, 'black');
 //drawFilledCircle(width - 200, height - 50, 50, 'black');
