@@ -78,3 +78,7 @@ drawFilledCircle(width/4, height/4, 75, 'black');
 //drawFilledCircle(width - 200, height - 50, 50, 'black');
 
 //drawFilledRect(5, height - 20, 45, 15, 'yellow');
+
+drawLine(500, 0, width, height, 'blue')
+drawLine(500, 0, width, height, 'blue')
+drawLine(x, y, width, height, 'yellow')
