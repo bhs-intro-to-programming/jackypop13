@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Doing well?",
+    "answer": "true && true",
+    "correct": false
+  },
+  {
+    "name": "Doing well?",
+    "answer": "true && false",
+    "correct": false
+  },
+  {
+    "name": "Doing well?",
+    "answer": "false && true",
+    "correct": false
+  },
+  {
+    "name": "Doing well?",
+    "answer": "enouphSleep===keepingUp",
+    "correct": false
+  },
+  {
+    "name": "Doing well?",
+    "answer": "enouphSleep && keepingUp",
+    "correct": false
+  },
+  {
+    "name": "Doing well?",
+    "answer": "enoughSleep && keepingUp",
+    "correct": true
+  }
+]
