@@ -33,5 +33,10 @@
     "name": "Energetic?",
     "answer": "enoughSleep === justWorkedOut",
     "correct": false
+  },
+  {
+    "name": "Energetic?",
+    "answer": "enoughSleep ** justWorkedOut",
+    "correct": false
   }
 ]
