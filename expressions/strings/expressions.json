@@ -220,5 +220,11 @@
     "answer": "'foo'",
     "correct": true,
     "timestamp": 1661378993544
+  },
+  {
+    "name": "First character",
+    "answer": "'foobar'",
+    "correct": false,
+    "timestamp": 1661379015682
   }
 ]
