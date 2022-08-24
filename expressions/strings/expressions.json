@@ -4,5 +4,11 @@
     "answer": "foobar",
     "correct": false,
     "timestamp": 1661378377333
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "answer": "'foobar'",
+    "correct": true,
+    "timestamp": 1661378389557
   }
 ]
