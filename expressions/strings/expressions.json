@@ -226,5 +226,11 @@
     "answer": "'foobar'",
     "correct": false,
     "timestamp": 1661379015682
+  },
+  {
+    "name": "First character",
+    "answer": "'foo/nbar'",
+    "correct": false,
+    "timestamp": 1661379030961
   }
 ]
