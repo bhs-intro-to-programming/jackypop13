@@ -118,5 +118,11 @@
     "answer": "!hungry && interested",
     "correct": true,
     "timestamp": 1661466396263
+  },
+  {
+    "name": "In the room where it happens?",
+    "answer": "inTheClass || isProtector",
+    "correct": false,
+    "timestamp": 1661466448616
   }
 ]
