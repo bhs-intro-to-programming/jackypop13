@@ -100,5 +100,11 @@
     "answer": "fireLit || !haveMatches",
     "correct": true,
     "timestamp": 1661466089372
+  },
+  {
+    "name": "Can pay attention?",
+    "answer": "hungry && interested",
+    "correct": false,
+    "timestamp": 1661466371215
   }
 ]
