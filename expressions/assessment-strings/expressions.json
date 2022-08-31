@@ -1,0 +1,9 @@
+[
+  {
+    "name": "First three",
+    "canonical": "s.substring(0,3)",
+    "answer": "'bar'",
+    "correct": false,
+    "timestamp": 1661983182595
+  }
+]
