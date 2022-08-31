@@ -124,5 +124,12 @@
     "answer": "hungry && !interested",
     "correct": false,
     "timestamp": 1661984171340
+  },
+  {
+    "name": "Can pay attention?",
+    "canonical": "!hungry && interested",
+    "answer": "hungry && interested",
+    "correct": false,
+    "timestamp": 1661984192044
   }
 ]
