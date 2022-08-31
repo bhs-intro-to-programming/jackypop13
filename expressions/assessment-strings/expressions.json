@@ -5,5 +5,12 @@
     "answer": "'bar'",
     "correct": false,
     "timestamp": 1661983182595
+  },
+  {
+    "name": "First three",
+    "canonical": "s.substring(0,3)",
+    "answer": "'foo'",
+    "correct": false,
+    "timestamp": 1661984644689
   }
 ]
