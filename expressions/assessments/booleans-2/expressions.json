@@ -82,5 +82,12 @@
     "answer": "invitedBySenior || isSenior",
     "correct": true,
     "timestamp": 1662070082801
+  },
+  {
+    "name": "Super beat?",
+    "canonical": "!enoughSleep && !eatenEnough",
+    "answer": "!enoughSleep && !eatenEnough",
+    "correct": true,
+    "timestamp": 1662070129634
   }
 ]
