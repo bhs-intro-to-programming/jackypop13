@@ -5,5 +5,12 @@
     "answer": "!fun || tired",
     "correct": true,
     "timestamp": 1662069437906
+  },
+  {
+    "name": "Having fun?",
+    "canonical": "done || !fun",
+    "answer": "done || !fun",
+    "correct": true,
+    "timestamp": 1662069472090
   }
 ]
