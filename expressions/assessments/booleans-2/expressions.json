@@ -75,5 +75,12 @@
     "answer": "inTheClass || isProctor",
     "correct": true,
     "timestamp": 1662069967269
+  },
+  {
+    "name": "Can go to prom?",
+    "canonical": "isSenior || invitedBySenior",
+    "answer": "invitedBySenior || isSenior",
+    "correct": true,
+    "timestamp": 1662070082801
   }
 ]
