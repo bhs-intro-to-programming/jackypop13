@@ -54,5 +54,40 @@
     "answer": "r3VD ",
     "correct": false,
     "timestamp": 1662501933592
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "r3VD ",
+    "correct": false,
+    "timestamp": 1662501933872
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "r3VD ",
+    "correct": false,
+    "timestamp": 1662501933912
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "r3VD ",
+    "correct": false,
+    "timestamp": 1662501933992
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "r3VD ",
+    "correct": false,
+    "timestamp": 1662501934000
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "s.toUpperCase()",
+    "correct": true,
+    "timestamp": 1662503394268
   }
 ]
