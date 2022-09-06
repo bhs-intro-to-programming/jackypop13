@@ -47,5 +47,12 @@
     "answer": "s.substring(0,1)",
     "correct": true,
     "timestamp": 1662501760957
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "r3VD ",
+    "correct": false,
+    "timestamp": 1662501933592
   }
 ]
