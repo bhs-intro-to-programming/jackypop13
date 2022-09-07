@@ -527,5 +527,12 @@
     "answer": "s.substring(1, s.length - 1)",
     "correct": true,
     "timestamp": 1662587356266
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s.substring(0,2)",
+    "correct": false,
+    "timestamp": 1662587472420
   }
 ]
