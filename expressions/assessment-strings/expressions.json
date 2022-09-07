@@ -152,5 +152,12 @@
     "answer": "s[3].toUpperCase(3)+s.substring()",
     "correct": false,
     "timestamp": 1662524431528
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[3].toUpperCase()+s.substring()",
+    "correct": false,
+    "timestamp": 1662524434489
   }
 ]
