@@ -492,5 +492,12 @@
     "answer": "toUpperCase(1,0)",
     "correct": false,
     "timestamp": 1662523736251
+  },
+  {
+    "name": "All but first and last",
+    "canonical": "s.substring(1, s.length - 1)",
+    "answer": "s.substring(s.length -1,0)",
+    "correct": false,
+    "timestamp": 1662523914641
   }
 ]
