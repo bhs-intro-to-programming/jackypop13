@@ -1,0 +1,233 @@
+[
+  {
+    "name": "First three",
+    "canonical": "s.substring(0,3)",
+    "answer": "'bar'",
+    "correct": false,
+    "timestamp": 1661983182595
+  },
+  {
+    "name": "First three",
+    "canonical": "s.substring(0,3)",
+    "answer": "'foo'",
+    "correct": false,
+    "timestamp": 1661984644689
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "canonical": "s1 + s2",
+    "answer": "s1+s2",
+    "correct": true,
+    "timestamp": 1662500699404
+  },
+  {
+    "name": "All but first",
+    "canonical": "s.substring(1)",
+    "answer": "s.substring(1)",
+    "correct": true,
+    "timestamp": 1662500767028
+  },
+  {
+    "name": "First three",
+    "canonical": "s.substring(0,3)",
+    "answer": "s.substring(0,3)",
+    "correct": true,
+    "timestamp": 1662500954944
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "toUpperCase(0,100)",
+    "correct": false,
+    "timestamp": 1662501443117
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "s.substring(0,1)",
+    "correct": true,
+    "timestamp": 1662501760957
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "r3VD ",
+    "correct": false,
+    "timestamp": 1662501933592
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "r3VD ",
+    "correct": false,
+    "timestamp": 1662501933872
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "r3VD ",
+    "correct": false,
+    "timestamp": 1662501933912
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "r3VD ",
+    "correct": false,
+    "timestamp": 1662501933992
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "r3VD ",
+    "correct": false,
+    "timestamp": 1662501934000
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "s.toUpperCase()",
+    "correct": true,
+    "timestamp": 1662503394268
+  },
+  {
+    "name": "Last character",
+    "canonical": "s[s.length - 1]",
+    "answer": "s.substring(s.length-1)",
+    "correct": true,
+    "timestamp": 1662503420581
+  },
+  {
+    "name": "lower case",
+    "canonical": "s.toLowerCase()",
+    "answer": "s.toLowerCase()",
+    "correct": true,
+    "timestamp": 1662503480678
+  },
+  {
+    "name": "Last three",
+    "canonical": "s.substring(s.length - 3)",
+    "answer": "s.substring(s.length-3)",
+    "correct": true,
+    "timestamp": 1662523308628
+  },
+  {
+    "name": "Length",
+    "canonical": "s.length",
+    "answer": "s.substring(s.length)",
+    "correct": false,
+    "timestamp": 1662523632298
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "s[0]",
+    "correct": false,
+    "timestamp": 1662524213412
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "s[0].toUpperCase()+s.substring(1).toLowerCase()",
+    "correct": true,
+    "timestamp": 1662524373951
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[0].toUpperCase(3)+s.substring().toLowerCase()\t",
+    "correct": false,
+    "timestamp": 1662524421931
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[0].toUpperCase(3)+s.substring()",
+    "correct": false,
+    "timestamp": 1662524427354
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[3].toUpperCase(3)+s.substring()",
+    "correct": false,
+    "timestamp": 1662524431528
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[3].toUpperCase()+s.substring()",
+    "correct": false,
+    "timestamp": 1662524434489
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[1].toUpperCase()+s.substring()",
+    "correct": false,
+    "timestamp": 1662524445957
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[1].toUpperCase(3)+s.substring()",
+    "correct": false,
+    "timestamp": 1662524451598
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[3].toUpperCase()+s.substring()",
+    "correct": false,
+    "timestamp": 1662524458459
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[3].toUpperCase()+s.substring(3)",
+    "correct": false,
+    "timestamp": 1662524465675
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[0].toUpperCase()+s.substring(3).toLowerCase() ",
+    "correct": false,
+    "timestamp": 1662524506305
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s.substring().toUpperCase(3,s.length)",
+    "correct": false,
+    "timestamp": 1662524594962
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s.substring().toUpperCase(3,s.length).toLowerCase",
+    "correct": false,
+    "timestamp": 1662524616760
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s.substring().toUpperCase(3,s.length)",
+    "correct": false,
+    "timestamp": 1662524654568
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[0].s.substring().toUpperCase(3,s.length)",
+    "correct": false,
+    "timestamp": 1662524672462
+  },
+  {
+    "name": "Length",
+    "canonical": "s.length",
+    "answer": "s.substring(6, s.length)",
+    "correct": false,
+    "timestamp": 1662524881991
+  }
+]
