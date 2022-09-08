@@ -1,1 +1,3 @@
-'a+b=ab' (s.substring)
+function add(a,b){
+return a+b
+}
