@@ -1,7 +1,7 @@
-function add(a,b){
+const add=(a,b) => {
    return a+b
 }
-function subtract(a,b){
+const subtract(a,b){
   return a-b
 }
 function multiply(a,b){
