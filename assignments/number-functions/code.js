@@ -22,3 +22,4 @@ const averageOfThree=(a,b,c) => {
 const distance=(a,b) => {
   return a-b
 }
+
