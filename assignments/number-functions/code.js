@@ -23,6 +23,6 @@ const distance=(a,b) => {
   return Math.abs(a-b)
 }
 
-const manhattanDistance=(x1,x2,y1,y2) => {
-  return x1+x2+y1+y2
+const manhattanDistance=(x1,y1,x2,y2) => {
+  return x1+y1+x2+y2
 }
