@@ -39,7 +39,7 @@ const isSpotted = (s1) => {
   return s1 === 'Flobby' || s1 === 'Flibble'
 }
 const isNotRed = (s1) => {
-  return s1 === 'Flooby' || s1 === 'Flibble'
+  return s1 === 'Flobby' || s1 === 'Flibble'
 }
 const isNotSpotted = (s1) => {
   return s1 === 'Bloggy' || s1 === 'Globby'
