@@ -26,3 +26,8 @@
  *
  *  clear()
  */
+const drawLineCircle=(r) => {
+  for (let i=0; i<)
+}
+
+drawFilledCircl(100, 100, 10, 'blue');
