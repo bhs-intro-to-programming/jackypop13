@@ -26,16 +26,3 @@
  *
  *  clear()
  */
- drawFilledCircle(width- 40,height- 300,20,'red')
- drawFilledCircle(width- 80,height- 300,20,'red')
- drawFilledCircle(width- 120,height- 300,20,'red')
- drawFilledCircle(width- 160,height- 300,20,'red')
- drawFilledCircle(width- 200,height- 300,20,'red')
- drawFilledCircle(width- 240,height- 300,20,'red')
- drawFilledCircle(width- 280,height- 300,20,'red')
- drawFilledCircle(width- 320,height- 300,20,'red')
- drawFilledCircle(width- 360,height- 300,20,'red')
- drawFilledCircle(width- 400,height- 300,20,'red')
- drawFilledCircle(width- 440,height- 300,20,'red')
- drawFilledCircle(width- 480,height- 300,20,'red')
-drawFilledCircle(width- 0,height- 300,20,'red')
