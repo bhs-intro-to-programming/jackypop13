@@ -38,3 +38,4 @@
  drawFilledCircle(width- 400,height- 300,20,'red')
  drawFilledCircle(width- 440,height- 300,20,'red')
  drawFilledCircle(width- 480,height- 300,20,'red')
+drawFilledCircle(width- 0,height- 300,20,'red')
