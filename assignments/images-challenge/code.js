@@ -30,7 +30,7 @@
  drawFilledCircle(width- 130,height- 50,20,'red')
  drawFilledCircle(width- 10,height- 50,20,'red')
  drawFilledCircle(width- 30,height- 50,20,'red')
- drawFilledCircle(width- 50,height- 200,20,'red')
+ drawFilledCircle(width- 50,height- 300,20,'red')
  drawFilledCircle(width- 70,height- 50,20,'red')
  drawFilledCircle(width- 90,height- 50,20,'red')
  drawFilledCircle(width- 110,height- 50,20,'red')
