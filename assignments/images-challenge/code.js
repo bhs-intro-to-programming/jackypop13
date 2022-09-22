@@ -27,7 +27,7 @@
  *  clear()
  */
  drawFilledCircle(width- 20,height- 300,20,'red')
- drawFilledCircle(width- 10,height- 300,20,'red')
+ drawFilledCircle(width- 0,height- 300,20,'red')
  drawFilledCircle(width- 0,height- 300,20,'red')
  drawFilledCircle(width- 0,height- 300,20,'red')
  drawFilledCircle(width- 0,height- 300,20,'red')
