@@ -62,7 +62,7 @@ drawRect(50, 50, 60, 40, 'black');
 
 drawFilledCircle(width - 50, height - 50, 50, 'red');
 
-drawRect(5, height +1, 45, 15, 'purple');
+drawRect(5, height -100, 45, 15, 'purple');
 
 drawTriangle(width * 0.25, 10, width * 0.75, 20, width * 0.5, 80, 'blue');
 
