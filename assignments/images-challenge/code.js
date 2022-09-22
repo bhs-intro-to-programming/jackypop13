@@ -2,7 +2,10 @@
  * This code is running in an environment the same as simple-draw. Thus you have
  * two variables that will be helpful.
  *
- *  width - the width of the drawing area.
+ *  width - the width of the drawing are
+ * +.
+ * 
+ * a.
  *  height - the height of the drawing area.
  *
  * And these methods which do the same thing as in simple-draw.
@@ -25,7 +28,7 @@
  */
  drawFilledCircle(width-50,height-50,5-20,'red')
  drawFilledCircle(width-130,height-50,5-20,'red')
- drawFilledCircle(width-10,height-50,5-20,'red')
+ drawFilledCircle(width-10,height-10,5-20,'red')
  drawFilledCircle(width-30,height-50,5-20,'red')
  drawFilledCircle(width-50,height-50,5-20,'red')
  drawFilledCircle(width-70,height-50,5-20,'red')
