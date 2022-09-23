@@ -34,7 +34,7 @@ const drawLineCircle=(r) => {
 
 drawLineCircle(10)
 
-const drawCircle=(r) => {
+const drawAltLineCircle=(r) => {
   for (let i=0; i<width; i=i+2*r) {
     drawFilledCircle(r+i, height/2, r,'cyan')
   }
