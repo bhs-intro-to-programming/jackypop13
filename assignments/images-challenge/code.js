@@ -32,4 +32,4 @@ const drawLineCircle=(r) => {
   }
 }
 
-drawLineCircle(0.1)
+drawLineCircle(0.51)
