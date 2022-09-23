@@ -26,8 +26,9 @@
  *
  *  clear()
  */
-const drawLineCircle=(r) => {
-  for (let i=0; i<)
+const void drawLineCircle=(r) => {
+  for (let i=0; i<width; i=i+2*r) {
+    drawFilledCircle(r+i, height/2, r,'green')
+  }
 }
 
-drawFilledCircle(100, 100, 10, 'blue');
