@@ -34,4 +34,3 @@ const drawLineCircle=(r) => {
 
 drawLineCircle(3)
 
-const
