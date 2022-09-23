@@ -40,4 +40,4 @@ const drawAltLineCircle=(r) => {
   }
 }
 
-drawLineCircle(10)
+//drawLineCircle(10)
