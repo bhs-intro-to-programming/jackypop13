@@ -32,4 +32,4 @@
 // Feel free to play around in the REPL to make sure you understand how this
 // operator works.
 
-const pigLatin=(s) => s.substring(0, s.search -1, (/[aeiou]/))  + s.substring(-1,s.search -9,(/[aeiou]/)) ;  
+const pigLatin=(s) => s.substring(0, s.search -1, (/[aeiou]/))  + s.substring(s.search (/[aeiou]/)) ;  
