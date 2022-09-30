@@ -6,5 +6,6 @@ const emit = (a, b, product) => {
 
 // Write your code here ...
 const averageWeight=(a,b) => {
-  return 'x+y'
+  return (a*b)
+  
 }
