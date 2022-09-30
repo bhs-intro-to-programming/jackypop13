@@ -5,7 +5,12 @@ const emit = (a, b, product) => {
 };
 
 // Write your code here ...
-const averageWeight=(a,b) => {
-  return (a*b)
+const averageWeight=(x,y) => (x/y)
   
+const hypotenuse=(a,b) => {
+  return  Math.sqrt(a**2 + b**2);
 }
+const maxRadius=(x,y) => {
+  return let( x<0) (width<)
+}
+const numCircles=()
