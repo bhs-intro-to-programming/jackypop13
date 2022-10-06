@@ -1,0 +1,1 @@
+const perimeterSquare=(s) => s*4
