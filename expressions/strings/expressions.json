@@ -625,5 +625,33 @@
     "answer": "jn",
     "correct": false,
     "timestamp": 1665786398718
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "jn",
+    "correct": false,
+    "timestamp": 1665786398854
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "jn",
+    "correct": false,
+    "timestamp": 1665786398990
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "jn",
+    "correct": false,
+    "timestamp": 1665786399110
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "jn",
+    "correct": false,
+    "timestamp": 1665786399245
   }
 ]
