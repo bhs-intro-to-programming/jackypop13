@@ -653,5 +653,19 @@
     "answer": "jn",
     "correct": false,
     "timestamp": 1665786399245
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "jn",
+    "correct": false,
+    "timestamp": 1665786399462
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "jn",
+    "correct": false,
+    "timestamp": 1665786399926
   }
 ]
