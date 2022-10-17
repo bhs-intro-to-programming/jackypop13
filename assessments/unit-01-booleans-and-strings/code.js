@@ -11,7 +11,7 @@ const rand = (n) => Math.floor(Math.random() * n);
 // credit for a clear and simple working function.
 
 const fireAlarm=(alarmPulled,smokeDetected,plannedFireDrill) => {
-  return alarmPulled || smokeDetected || planedFireDrill
+  return alarmPulled || smokeDetected || plannedFireDrill
 }
 const canBePresident=(atLeast35,naturalBornCitizen,liveInUS14Years)=> {
   return atLeast35 && naturalBornCitizen && liveInUS14Years
@@ -20,5 +20,8 @@ const willSeeTweet=(followTweeter,followRetweeter,noTweetIfblocked) => {
   return followTweeter || followRetweeter || !noTweetIfblocked
 }
 const evenGreaterThanZero=(s)=> {
-  return 
+  return if(s/2=wholeNumber)it is even
 }
+ const firstAndLast=()=> {
+   return
+ }
