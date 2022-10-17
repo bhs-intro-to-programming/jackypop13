@@ -22,6 +22,27 @@ const willSeeTweet=(followTweeter,followRetweeter,noTweetIfblocked) => {
 const evenGreaterThanZero=(s)=> {
   return if(s/2=wholeNumber)it is even
 }
+const =()=> {
+  return
+}
  const firstAndLast=()=> {
    return
  }
+const swapFrontAndBack=()=> {
+  return
+}
+const  simplePigLatin=()=> {
+  return 
+}
+const randomCharacter=()=> {
+  return
+}
+const randomCharacterUpDown=()=> {
+  return
+}
+const isAllUpperCase=()=> {
+  return
+}
+const sameIgnoringCase=()=> {
+  return
+}
