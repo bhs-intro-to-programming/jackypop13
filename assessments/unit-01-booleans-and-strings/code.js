@@ -25,13 +25,13 @@ const evenGreaterThanZero=(s)=> {
 const =()=> {
   return
 }
- const firstAndLast=()=> {
+ const firstAndLast=(s)=> {
    return
  }
-const swapFrontAndBack=()=> {
+const swapFrontAndBack=(s)=> {
   return
 }
-const  simplePigLatin=()=> {
+const  simplePigLatin=(word,number)=> {
   return 
 }
 const randomCharacter=()=> {
