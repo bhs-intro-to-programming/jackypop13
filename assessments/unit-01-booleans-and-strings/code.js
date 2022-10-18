@@ -17,7 +17,7 @@ const canBePresident=(atLeast35,naturalBornCitizen,liveInUS14Years)=> {
   return atLeast35 && naturalBornCitizen && liveInUS14Years
 }
 const willSeeTweet=(followTweeter,followRetweeter,noTweetIfblocked) => {
-  return followTweeter || followRetweeter || !noTweetIfblocked
+  return (followTweeter || followRetweeter) && !noTweetIfblocked
 }
 const evenGreaterThanZero=(s)=> {
   return if(s/2=wholeNumber)it is even
