@@ -10,7 +10,7 @@ return count
 }
 const sum=(numbers)=>{
 let sum = 0;
-for (let i = 0; i < 100; i++) {
+for (let i = 0; i < numbers.length; i++) {
   sum = sum + something(i);
 }
 return count
