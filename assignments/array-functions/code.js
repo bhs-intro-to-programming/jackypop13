@@ -9,9 +9,9 @@ for (let i = 0; i < numbers.length; i++) {
 return count
 }
 const sum=(numbers)=>{
-let sum = 0;
+let count = 0;
 for (let i = 0; i < numbers.length; i++) {
-  (sum = sum + numbers[i])
+  sum = sum + numbers[i]
 }
 return count
 }
