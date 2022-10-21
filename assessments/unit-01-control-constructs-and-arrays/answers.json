@@ -13,5 +13,6 @@
   null,
   null,
   null,
-  "Nothing, it’s a syntax error."
+  "Nothing, it’s a syntax error.",
+  "xs[2][1]"
 ]
