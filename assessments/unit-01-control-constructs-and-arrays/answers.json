@@ -7,5 +7,11 @@
   "10",
   "4",
   "4",
-  "The sum of the numbers from 0 to 9"
+  "The sum of the numbers from 0 to 9",
+  null,
+  null,
+  null,
+  null,
+  null,
+  "Nothing, it’s a syntax error."
 ]
