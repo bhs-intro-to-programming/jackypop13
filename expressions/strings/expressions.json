@@ -723,5 +723,33 @@
     "answer": "s.toUpperCase() + s.toLowerCase()",
     "correct": false,
     "timestamp": 1666822642165
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "s.toUpperCase() + s.toLowerCase()",
+    "correct": false,
+    "timestamp": 1666822642285
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "s.toUpperCase() + s.toLowerCase()",
+    "correct": false,
+    "timestamp": 1666822642420
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "s.toUpperCase() + s.toLowerCase()",
+    "correct": false,
+    "timestamp": 1666822642549
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "s.toUpperCase() + s.toLowerCase()",
+    "correct": false,
+    "timestamp": 1666822642701
   }
 ]
