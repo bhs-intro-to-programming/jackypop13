@@ -7,6 +7,6 @@ const stringContains=(s)=>{
 const firstAndLast=(s)=>{
   return s.substring(0,1)+ s.substring(s.length -1)
 }
-const swapFronstAndBack=(s)=>{
-  return s.substring(1)+s.substring(s.length ,3)
+const swapFrontAndBack=(s)=>{
+  return s.substring(1)+s.substring(s.length 3)
 }
