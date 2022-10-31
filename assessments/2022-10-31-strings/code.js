@@ -25,3 +25,37 @@ const firstFewEveryOther=(s)=>{
 }
 const upDownLastCharacter=(s)=>{
   return s.substring(2,100).tolowercase+s.substring(1).toUpperCase
+}
+const firstAndLast=(s)=>{
+  return s.substring(0,1)+ s.substring(s.length -1)
+}
+const swapFrontAndBack=(s)=>{
+  return s.substring(0,s.length/2)
+}
+const simplePigLatin=(s)=>{
+  return s.substring(s.search(/[aeiou]/))+s.substring(0,s.search-1)+'ay'
+}
+const randomCharacterUpDown=(s)=>{
+  return s
+
+}
+const isAllUpperCase=(s)=>{
+  return s.substring(0,100).toUpperCase
+
+}
+const sameIgnoringCase=(s)=>{
+  return s
+
+}
+const firstName=(s)=>{
+  return s
+
+}
+const lastName=(s)=>{
+  return s
+
+}
+const initials=(s)=>{
+  return s
+
+}
