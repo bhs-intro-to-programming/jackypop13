@@ -1,26 +1,26 @@
 const add = (a, b) => {
-  return a + b
+  return 
 }
 const subtract = (a, b) => {
-  return a - b
+  return 
 }
 const multiply = (a, b) => {
-  return a * b
+  return 
 }
 const divide = (a, b) => {
-  return a / b
+  return
 }
 const mod = (a, b) => {
-  return a % b
+  return 
 }
 const averageOfTwo = (a, b) => {
-  return (a + b) / 2
+  return 
 }
 const averageOfThree = (a, b, c) => {
-  return (a + b + c) / 3
+  return 
 }
 const distance = (a, b) => {
-  return Math.abs(a - b)
+  return 
 }
 
 const manhattanDistance = (x1, y1, x2, y2) => distance(x1, x2) + distance(y1, y2)
