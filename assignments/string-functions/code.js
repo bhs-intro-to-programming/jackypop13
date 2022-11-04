@@ -1,8 +1,8 @@
 const findFnord=(s) => {
   return s.indexOf('fnord')
 }
-const stringContains=(s)=>{
-  return s.indexOf('a+b')
+const stringContains=(s1, s2)=>{
+  return s.indexOf(s1+s2)
 }
 const firstAndLast=(s)=>{
   return s.substring(0,1)+ s.substring(s.length -1)
@@ -16,6 +16,6 @@ const simplePigLatin=(s)=>{
 const isAllUpperCase=(s)=>{
   return s.substring(0,s.length-1).toUpperCase()
 }
-const sameIgnoringCase=()=>{
+const sameIgnoringCase=(s1, s2)=>{
   return 
 }
