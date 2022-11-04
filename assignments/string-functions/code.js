@@ -1,7 +1,7 @@
 const findFnord=(s) => {
   return s.indexOf('fnord')
 }
-const stringContains=(a,b)=>{
+const stringContains=(s)=>{
   return s.indexOf('a+b')
 }
 const firstAndLast=(s)=>{
