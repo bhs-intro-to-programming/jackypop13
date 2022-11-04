@@ -20,3 +20,6 @@ else (s.substring (0,s.slength-1).isLowerCase)
 const sameIgnoringCase=(s1, s2)=>{
   return 
 }
+const upDown=(s)=>{
+  return s.substring(0,s.length-1).toUpperCase()+ s.substring(0,s.length-1).toLowerCase
+}
