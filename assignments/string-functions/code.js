@@ -11,7 +11,7 @@ const swapFrontAndBack=(s)=>{
   return s.substring(s.length /2)+s.substring(0,s.length/2)
 }
 const simplePigLatin=(s)=>{
-  return (s.substring(/[aeiou]/))+ay
+  return (s.substring(/[aeiou]/))+'ay'
 }
 const isAllUpperCase=(s)=>{
   return s.substring(0,100).toUpperCase()
