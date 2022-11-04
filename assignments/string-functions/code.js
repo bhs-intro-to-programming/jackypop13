@@ -14,7 +14,8 @@ const simplePigLatin=(s)=>{
   return (s.substring(/[aeiou]/))+'ay'
 }
 const isAllUpperCase=(s)=>{
-  return s.substring(0,s.length-1).toUpperCase()
+if (s.substring(0,s.length-1).isUpperCase){}
+else (s.substring (0,s.slength-1).isLowerCase)
 }
 const sameIgnoringCase=(s1, s2)=>{
   return 
