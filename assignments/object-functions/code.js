@@ -2,5 +2,5 @@ const getX=(object)=>{
   return object.x
 }
 const point=(x,y)=>{
-  return point.x + point.y
+let point= {x:10,y:20}
 }
