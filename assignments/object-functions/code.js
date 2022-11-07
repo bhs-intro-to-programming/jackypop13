@@ -5,6 +5,6 @@ const point=(x,y)=>{
 return {x,y}
 }
 const emptyObject=()=>{
-  object=()
-  return object=()
+let  object={}
+  return object
 }
