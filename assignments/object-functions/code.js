@@ -12,7 +12,7 @@ const distance=(x,y)=>{
   return math.abs(math.sqrt('x+y'))
 }
 const midpoint=(x,y)=>{
-  return point['x'] + point['y']/2
+  return point['x']/2 + point['y']/2
 }
 const sumSalaries=()=>{
   return
