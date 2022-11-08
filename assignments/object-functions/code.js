@@ -11,3 +11,15 @@ let  object={}
 const distance=(x,y)=>{
   return math.abs(math.sqrt('x+y'))
 }
+const midpoint=(x,y)=>{
+  return (x+y)/2
+}
+const sumSalaries=()=>{
+  return
+}
+const newHighScore=()=>{
+  return
+}
+const summarizeBooks=()=>{
+  return
+}
