@@ -8,3 +8,6 @@ const emptyObject=()=>{
 let  object={}
   return object
 }
+const distance=(x,y)=>{
+  return math.abs(math.sqrt('x+y'))
+}
