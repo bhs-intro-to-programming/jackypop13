@@ -17,7 +17,10 @@ const midpoint = (p1, p2) => {
 }
 const sumSalaries = (saleries) => {
 let sum=0
-  return 
+for(let i=0; i < (saleries.length -1); i++){
+
+}
+  return sum
 }
 const newHighScore = () => {
   return
