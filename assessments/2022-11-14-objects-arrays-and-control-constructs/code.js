@@ -40,7 +40,8 @@ const bigWinners = (players) => {
   if(players.win > 10){
     return bigWinner
 };
-
+//didnt have enough time to figure out the rest (probably coudnt of anyway)
+//i tried my best mr.Seible and i will countinue too
 const fillTimesTable = (table) => {
 
 };
