@@ -17,22 +17,32 @@ const isSamePoint = (p1, p2) => {
   if(p1.x=p2.x, p1.y=p2.y) {
   return true
   }else{
-  return false
+  return false}
 };
 
 const totalWithTip = (bill, tipPercentage) => {
+  let(bill.subtotal * tipPercentage)
+  return money.total
 };
 
 const isWinner = (player) => {
+  if(player.score > 100){
+  return true
+  }else{
+  return false}
 };
 
 const updateWins = (players) => {
+//i do not understand this one
 };
 
 const bigWinners = (players) => {
+  if(players.win > 10){
+    return bigWinner
 };
 
 const fillTimesTable = (table) => {
+
 };
 
 const sums = (n) => {
