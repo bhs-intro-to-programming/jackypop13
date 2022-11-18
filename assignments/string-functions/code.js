@@ -29,3 +29,6 @@ const firstCharacter=(s)=>{
 const lastCharacter=(s)=>{
   return s.substring(s.length-1)
 }
+const allButFirst=(s)=>{
+  return s.substring(-1s.length)
+}
