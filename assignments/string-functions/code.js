@@ -30,5 +30,5 @@ const lastCharacter=(s)=>{
   return s.substring(s.length-1)
 }
 const allButFirst=(s)=>{
-  return s.substring(1,s.length-1)
+  return s.substring(0,s.length-1)
 }
