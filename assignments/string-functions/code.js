@@ -23,3 +23,6 @@ const sameIgnoringCase=(s1, s2)=>{
 const upDown=(s)=>{
   return s.substring(0,s.length-1).toUpperCase()+ s.substring(0,s.length-1).toLowerCase
 }
+const firstCharacter=(s)=>{
+  return s.substring(s.length-1)
+}
