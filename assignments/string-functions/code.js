@@ -33,6 +33,5 @@ const allButFirst=(s)=>{
   return s.substring(1,s.length ,0)
 }
 const firstThree=(s)=>{
-  if(s.substring > 2)
   return s.substring(0,s.length,3)
 }
