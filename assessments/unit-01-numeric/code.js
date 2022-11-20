@@ -8,22 +8,22 @@ const G = 6.6743e-11;
 // reasonable argument list, yet more credit for a working function, and full
 // credit for a clear and simple working function.
 const itemsLeftOver=(numberOfPeople,numberOfItems) => {
-  return (numberOfItems-numberOfPeople)
+  return numberOfItems % numberOfPeople 
 }
 const areaOfCircle=(r) => {
   return math.PI(r**2)
 }
 const volumeOfCube=(lengthOfEdge) => {
-  return (lengthOfEdge)*6 
+  return lengthOfEdge**3
 }
-const populationGrowth=(x,y) => {
-  return x=100, y=0.25 x*1/10y
+const populationGrowth=(population,growth) => {
+  return population * growth
 }
 const earnedRunAverage=(earnedRuns,inningsPitched) => {
-  return (earnedRuns/inningsPitched)
+  return (earnedRuns/inningsPitched)*9
 }
-const valueOfJewels=(numDiamonds,numEmeralds,valueDiamondsInGold,valueEmeraldsInGold) => {
-  return
+const valueOfJewels=(diamonds,emeralds,valueDiamond,valueEmerald) => {
+  return diamonds * valueDiamond + emeralds * valueEmerald
 }
 const payWithOvertime=(a,b,c) => {
   return
