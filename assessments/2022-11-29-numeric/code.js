@@ -7,11 +7,11 @@ const chocolatesPerPerson=(numChocolates,numPeople)=>{
 const extraChocolates=(numPeople,numChocolates)=>{
   return numPeople % numChocolates
 }
-const leftOut=()=>{
-  return
+const leftOut=(numChocolates,numPeople)=>{
+  return (numChocolates-numPeople)
 }
-const probabilityAllHeads=()=>{
-  return 
+const probabilityAllHeads=(coinFlip)=>{
+  return (0.5**coinFlip)
 }
 const futureHour=(curentHour,futureHours)=>{
   return (curentHour + (futureHours % 24))
@@ -22,9 +22,9 @@ const presentsBudget=(friends,avrgPresentCost)=>{
 const perPresent=(totalBudgeted,pretsentsNeedToBuy)=>{
   return totalBudgeted / pretsentsNeedToBuy
 }
-const wrapingCombos=()=>{
-  return
+const wrapingCombos=(wrappingPaper,ribbions,decoritiveBows)=>{
+  return wrappingPaper+ribbions+decoritiveBows
 }
-const biggestNumber=()=>{
-  return Math.max()
+const biggestNumber=(numDigits)=>{
+  return 10>numDigits(Math.max(numDigits))
 }
