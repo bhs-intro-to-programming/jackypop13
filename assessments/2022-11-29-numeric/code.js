@@ -4,7 +4,7 @@ const totalEggs=(hardBoiled,softBoiled)=>{
 const chocolatesPerPerson=(numChocolates,numPeople)=>{
   return Math.floor(numChocolates / numPeople)
 }
-const extrachocolates=(numPeople,numChocolates)=>{
+const extraChocolates=(numPeople,numChocolates)=>{
   return numPeople % numChocolates
 }
 const leftOut=()=>{
