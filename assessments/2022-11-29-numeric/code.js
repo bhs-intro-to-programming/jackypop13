@@ -26,5 +26,5 @@ const wrapingCombos=()=>{
   return
 }
 const biggestNumber=()=>{
-  return math.max()
+  return Math.max()
 }
