@@ -14,7 +14,7 @@ const probabilityAllHeads=()=>{
   return 
 }
 const futureHour=(curentHour,futureHours)=>{
-  return (curentHour * (futureHours%24))
+  return (curentHour + (futureHours % 24))
 }
 const presentsBudget=(friends,avrgPresentCost)=>{
   return friends * avrgPresentCost
