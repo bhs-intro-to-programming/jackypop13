@@ -13,8 +13,8 @@ const leftOut=()=>{
 const probabilityAllHeads=()=>{
   return 
 }
-const futureHour=(curentHour,futureHour)=>{
-  return (curentHour * (futureHour%24))
+const futureHour=(curentHour,futureHours)=>{
+  return (curentHour * (futureHours%24))
 }
 const presentsBudget=(friends,avrgPresentCost)=>{
   return friends * avrgPresentCost
