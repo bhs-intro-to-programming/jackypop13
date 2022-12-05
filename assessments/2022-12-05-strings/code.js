@@ -6,7 +6,7 @@ const charactersAround=(s1,s2)=>{
   return s.indexOf('s1')+s.indexOf('s2')
 }
 const middle=(s)=>{
-  return (s.substing)/3 
+  return s.substing(s.length)/4
 }
 const pair=(string1,string2)=>{
   return string1+'and'+string2
