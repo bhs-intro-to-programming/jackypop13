@@ -2,23 +2,26 @@ const upToX=(s)=>{
   let x = s.indexOf('x')
   return s.substring(0)
 }
-const charactersAround=()=>{
-  return 
+const charactersAround=(s1,s2)=>{
+  return s.indexOf('s1')+s.indexOf('s2')
 }
-const middle=(s1,s2)=>{
-  return
+const middle=(s)=>{
+  return (s.substing)/3 
 }
 const pair=(string1,string2)=>{
   return string1+'and'+string2
 }
-const containsX=(s1,s2,s3)=>{
+const containsX=(s)=>{
+  if (s.substring(s.indexOf('x')))  {
+  return true}
+  return false
+}
+const slug=(s1,s2,s3)=>{
   return (s1.toLowerCase + s2.toLowerCase + s3.toLowerCase )+''
+  
 }
-const slug=()=>{
-  return
-}
-const capitilize=()=>{
-  return
+const capitalize=(s)=>{
+  return s.substring(0,1).toUpperCase()
 }
 const capitalizeName=()=>{
   return
