@@ -6,7 +6,7 @@ const charactersAround=(s1,s2)=>{
   return s.indexOf('s1')+s.indexOf('s2')
 }
 const middle=(s)=>{
-  return s.substring(s.length/4)+s.substring().length-(s.length/4)
+  return s.substring(s.length/4. , s.length-(s.length/4))
 }
 const pair=(string1,string2)=>{
   return string1+'and'+string2
@@ -24,5 +24,5 @@ const capitalize=(s)=>{
   return s.substring(0,1).toUpperCase()+s.substring(1,s.length)
 }
 const capitalizeName=()=>{
-  return
+  return //didnt have enough time to get to this one
 }
