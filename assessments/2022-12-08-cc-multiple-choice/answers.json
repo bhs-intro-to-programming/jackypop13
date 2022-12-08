@@ -6,5 +6,8 @@
   "100",
   "10",
   "4",
-  "3"
+  "3",
+  null,
+  null,
+  "It tests whether there are more than limit prime numbers below max."
 ]
