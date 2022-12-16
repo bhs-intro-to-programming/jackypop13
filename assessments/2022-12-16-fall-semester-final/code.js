@@ -96,3 +96,24 @@ const pair = (a, b) => {
 
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
+
+
+
+const fireAlarm=(smokeDetected,planedDrill,alarmPulled)=>{
+  return smokeDetected||planedDrill||alarmPulled
+}
+const canBePresident=(atLeast35,naturalBornCitizen,liveInUS14Years)=> {
+  return atLeast35 && naturalBornCitizen && liveInUS14Years
+}
+const willSeeTweet=(followingTweeter,followingRetweeter,noTweetIfblocked) => {
+  return (followingTweeter || followingRetweeter) && !noTweetIfblocked
+}
+const needHeavyCoat=(goingOutside,somewhereCold)=>{
+  return goingOutside && somewhereCold
+}
+const needSunscreen=(goingSkiing,goingToBeach)=>{
+  return goingSkiing||goingToBeach
+}
+const needMittens=(goingOutside,somewhereWarm)=>{
+  return
+}
