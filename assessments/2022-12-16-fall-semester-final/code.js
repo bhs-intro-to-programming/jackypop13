@@ -105,7 +105,7 @@ const volumeOfCube=(lengthOfEdge)=>{
 }
 const averageWeight=(weightOfitems,numOfItems)=>{
   return (weightOfitems / numOfItems)
-}n
+}
 const earnedRunAverage=(numEarnedRuns,numInningsPitched)=>{
   return (numEarnedRuns / numInningsPitched)*9
 }
