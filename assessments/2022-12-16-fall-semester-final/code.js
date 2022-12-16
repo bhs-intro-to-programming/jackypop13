@@ -156,19 +156,19 @@ const firstFewEveryOther=(s)=>{
 
 
 
-const =()=>{
+const sumOfSquares=()=>{
   return
 }
-const =()=>{
+const sumSquares=()=>{
   return
 }
-const =()=>{
+const countXs=()=>{
   return
 }
-const =()=>{
+const makeRow=()=>{
   return
 }
-const =()=>{
+const makeBoard=()=>{
   return
 }
 
