@@ -222,7 +222,6 @@ const updateWins=(array)=>{
   return
 }
 const totalWithTip=(subtotal,tip)=>{
-   
    (20% subtotal === tip)
    subtotal + tip === total
      return total
