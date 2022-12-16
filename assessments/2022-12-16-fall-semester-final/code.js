@@ -103,14 +103,14 @@ const totalEggs=(numHardBoiled,numSoftBoiled)=>{
 const volumeOfCube=(lengthOfEdge)=>{
   return (lengthOfEdge * 6)
 }
-const =()=>{
-  return
+const averageWeight=(weightOfitems,numOfItems)=>{
+  return (weightOfitems / numOfItems)
+}n
+const earnedRunAverage=(numEarnedRuns,numInningsPitched)=>{
+  return (numEarnedRuns / numInningsPitched)*9
 }
-const =()=>{
-  return
-}
-const =()=>{
-  return
+const presentsBudget=(numOfFriends,avgPresentPrice)=>{
+  return (numOfFriends * avgPresentPrice)
 }
 
 const fireAlarm=(smokeDetected,planedDrill,alarmPulled)=>{
