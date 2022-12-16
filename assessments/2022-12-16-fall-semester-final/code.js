@@ -97,7 +97,21 @@ const pair = (a, b) => {
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
 
-
+const totalEggs=(numHardBoiled,numSoftBoiled)=>{
+  return (numHardBoiled + numSoftBoiled)
+}
+const itensLeftOver=(numPeople,numItems)={
+  return 
+}
+const =()={
+  return
+}
+const =()={
+  return
+}
+const =()={
+  return
+}
 
 const fireAlarm=(smokeDetected,planedDrill,alarmPulled)=>{
   return smokeDetected||planedDrill||alarmPulled
@@ -115,5 +129,5 @@ const needSunscreen=(goingSkiing,goingToBeach)=>{
   return goingSkiing||goingToBeach
 }
 const needMittens=(goingOutside,somewhereWarm)=>{
-  return 
+  return goingOutside&&!somewhereWarm
 }
