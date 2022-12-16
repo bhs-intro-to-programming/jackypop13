@@ -162,14 +162,16 @@ const sumOfSquares=()=>{
 const sumSquares=()=>{
   return
 }
-const countXs=()=>{
-  return
+const countXs=(s)=>{
+  count[x]
+  if(s.substing()=x)
+  return numOfXs
 }
 const makeRow=()=>{
-  return
+  return ['','','']
 }
 const makeBoard=()=>{
-  return
+  return (makeRow + makeRow + makeRow)
 }
 
 
@@ -193,18 +195,24 @@ const sums=()=>{
 
 
 
-const =()=>{
+const higherPaid=(salery1,salery2)=>{
+   if(salery1 > salery2)
+   return salery1
+   else
+   return salery2
+}
+const isWinner=(score)=>{
+  if (score > 100)
+  return true
+  else 
+  return false
+}
+const bigWinners=()=>{
   return
 }
-const =()=>{
+const updateWins=()=>{
   return
 }
-const =()=>{
-  return
-}
-const =()=>{
-  return
-}
-const =()=>{
+const totalWithTip=()=>{
   return
 }
