@@ -198,11 +198,11 @@ const sums=()=>{
 
 
 
-const higherPaid = (salery1,salery2) => {
+const higherPaid = (salary1,salary2) => {
   if(salary1 > salary2){
-    return salery1
+    return salary1
     }else{
-    return salery2
+    return salary2
   }
 };
 const isWinner=(score)=>{
@@ -222,7 +222,8 @@ const updateWins=(array)=>{
   return
 }
 const totalWithTip=(subtotal,tip)=>{
-   tip=20%
-   (subtotal * tip = total)
+   
+   (20% subtotal === tip)
+   subtotal + tip === total
      return total
 }
