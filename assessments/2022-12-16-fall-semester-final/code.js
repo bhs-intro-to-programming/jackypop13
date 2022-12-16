@@ -181,12 +181,16 @@ const allTheSame=()=>{
 const extractColumn=()=>{
   return
 }
-const area=()=>{
-  return
-}
-const isSamePoint=()=>{
-  return
-}
+const area = (rect) => {
+  return rect.height * rect.width
+};
+
+const isSamePoint = (p1, p2) => {
+  if(p1.x=p2.x, p1.y=p2.y) {
+  return true
+  }else{
+  return false}
+};
 const sums=()=>{
   return
 }
@@ -194,25 +198,31 @@ const sums=()=>{
 
 
 
-
-const higherPaid=(salery1,salery2)=>{
-   if(salery1 > salery2)
-   return salery1
-   else
-   return salery2
-}
+const higherPaid = (salery1,salery2) => {
+  if(salary1 > salary2){
+    return salery1
+    }else{
+    return salery2
+  }
+};
 const isWinner=(score)=>{
   if (score > 100)
   return true
   else 
   return false
 }
-const bigWinners=()=>{
+const bigWinners=(array)=>{
+  if(array = wins > 10)
+  return bigWinner
+  else
+  return loser
+}
+const updateWins=(array)=>{
+  
   return
 }
-const updateWins=()=>{
-  return
-}
-const totalWithTip=()=>{
-  return
+const totalWithTip=(subtotal,tip)=>{
+   tip=20%
+   (subtotal * tip = total)
+     return total
 }
