@@ -113,6 +113,9 @@ const presentsBudget=(numOfFriends,avgPresentPrice)=>{
   return (numOfFriends * avgPresentPrice)
 }
 
+
+
+
 const fireAlarm=(smokeDetected,planedDrill,alarmPulled)=>{
   return smokeDetected||planedDrill||alarmPulled
 }
@@ -131,3 +134,7 @@ const needSunscreen=(goingSkiing,goingToBeach)=>{
 const needMittens=(goingOutside,somewhereWarm)=>{
   return goingOutside&&!somewhereWarm
 }
+
+
+
+
