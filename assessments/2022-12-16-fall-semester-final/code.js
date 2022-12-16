@@ -100,16 +100,16 @@ const pair = (a, b) => {
 const totalEggs=(numHardBoiled,numSoftBoiled)=>{
   return (numHardBoiled + numSoftBoiled)
 }
-const itensLeftOver=(numPeople,numItems)={
-  return 
+const volumeOfCube=(lengthOfEdge)=>{
+  return (lengthOfEdge * 6)
 }
-const =()={
+const =()=>{
   return
 }
-const =()={
+const =()=>{
   return
 }
-const =()={
+const =()=>{
   return
 }
 
