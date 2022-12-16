@@ -138,3 +138,18 @@ const needMittens=(goingOutside,somewhereWarm)=>{
 
 
 
+const firstHalf=()=>{
+  return
+}
+const secondHalf=()=>{
+  return
+}
+const firstAndLast=()=>{
+  return
+}
+const isAllUpperCase=()=>{
+  return
+}
+const firstFewEveryOther=(s)=>{
+  return s.substring(0,2,4)
+}
