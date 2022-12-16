@@ -139,7 +139,7 @@ const needMittens=(goingOutside,somewhereWarm)=>{
 
 
 const firstHalf=(s)=>{
-  return s.substring(1,0)+s.substring(s.length/2)
+  return s.substring(0,s.length/2)
 }
 const secondHalf=(s)=>{
   return s.substring(s.length/2)
