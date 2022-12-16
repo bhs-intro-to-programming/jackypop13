@@ -145,11 +145,66 @@ const secondHalf=(s)=>{
   return s.substring(s.length/2)
 }
 const firstAndLast=(s)=>{
-  return s.substring(0,1)+ s.substring(s.length -1)
+  return s.substring(0)+ s.substring(s.length -1)
 }
 const isAllUpperCase=(s)=>{
   return s.substring().toUpperCase
 }
 const firstFewEveryOther=(s)=>{
   return s[0]+s[2]+s[4]
+}
+
+
+
+const =()=>{
+  return
+}
+const =()=>{
+  return
+}
+const =()=>{
+  return
+}
+const =()=>{
+  return
+}
+const =()=>{
+  return
+}
+
+
+const allTheSame=()=>{
+  return
+}
+const extractColumn=()=>{
+  return
+}
+const area=()=>{
+  return
+}
+const isSamePoint=()=>{
+  return
+}
+const sums=()=>{
+  return
+}
+
+
+
+
+
+const =()=>{
+  return
+}
+const =()=>{
+  return
+}
+const =()=>{
+  return
+}
+const =()=>{
+  return
+}
+const =()=>{
+  return
 }
