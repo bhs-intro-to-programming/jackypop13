@@ -218,8 +218,7 @@ const bigWinners=(array)=>{
   return loser
 }
 const updateWins=(array)=>{
-  
-  return
+   return
 }
 const totalWithTip=(subtotal,tip)=>{
    (20% subtotal === tip)
