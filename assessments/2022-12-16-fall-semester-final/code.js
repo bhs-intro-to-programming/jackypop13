@@ -96,3 +96,132 @@ const pair = (a, b) => {
 
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
+
+const totalEggs=(numHardBoiled,numSoftBoiled)=>{
+  return (numHardBoiled + numSoftBoiled)
+}
+const volumeOfCube=(lengthOfEdge)=>{
+  return (lengthOfEdge * 6)
+}
+const averageWeight=(weightOfitems,numOfItems)=>{
+  return (weightOfitems / numOfItems)
+}
+const earnedRunAverage=(numEarnedRuns,numInningsPitched)=>{
+  return (numEarnedRuns / numInningsPitched)*9
+}
+const presentsBudget=(numOfFriends,avgPresentPrice)=>{
+  return (numOfFriends * avgPresentPrice)
+}
+
+
+
+
+const fireAlarm=(smokeDetected,planedDrill,alarmPulled)=>{
+  return smokeDetected||planedDrill||alarmPulled
+}
+const canBePresident=(atLeast35,naturalBornCitizen,liveInUS14Years)=> {
+  return atLeast35 && naturalBornCitizen && liveInUS14Years
+}
+const willSeeTweet=(followingTweeter,followingRetweeter,noTweetIfblocked) => {
+  return (followingTweeter || followingRetweeter) && !noTweetIfblocked
+}
+const needHeavyCoat=(goingOutside,somewhereCold)=>{
+  return goingOutside && somewhereCold
+}
+const needSunscreen=(goingSkiing,goingToBeach)=>{
+  return goingSkiing||goingToBeach
+}
+const needMittens=(goingOutside,somewhereWarm)=>{
+  return goingOutside&&!somewhereWarm
+}
+
+
+
+
+const firstHalf=(s)=>{
+  return s.substring(0,s.length/2)
+}
+const secondHalf=(s)=>{
+  return s.substring(s.length/2)
+}
+const firstAndLast=(s)=>{
+  return s.substring(0)+ s.substring(s.length -1)
+}
+const isAllUpperCase=(s)=>{
+  return s.substring().toUpperCase
+}
+const firstFewEveryOther=(s)=>{
+  return s[0]+s[2]+s[4]
+}
+
+
+
+const sumOfSquares=()=>{
+  return
+}
+const sumSquares=()=>{
+  return
+}
+const countXs=(s)=>{
+  count[x]
+  if(s.substing()=x)
+  return numOfXs
+}
+const makeRow=()=>{
+  return ['','','']
+}
+const makeBoard=()=>{
+  return (makeRow + makeRow + makeRow)
+}
+
+
+const allTheSame=()=>{
+  return
+}
+const extractColumn=()=>{
+  return
+}
+const area = (rect) => {
+  return rect.height * rect.width
+};
+
+const isSamePoint = (p1, p2) => {
+  if(p1.x=p2.x, p1.y=p2.y) {
+  return true
+  }else{
+  return false}
+};
+const sums=()=>{
+  return
+}
+
+
+
+
+const higherPaid = (salary1,salary2) => {
+  if(salary1 > salary2){
+    return salary1
+    }else{
+    return salary2
+  }
+};
+const isWinner=(score)=>{
+  if (score > 100)
+  return true
+  else 
+  return false
+}
+const bigWinners=(array)=>{
+  if(array = wins > 10)
+  return bigWinner
+  else
+  return loser
+}
+const updateWins=(array)=>{
+   return
+}
+const totalWithTip=(subtotal,tip)=>{
+   (20% subtotal === tip)
+   subtotal + tip === total
+     return total
+}
